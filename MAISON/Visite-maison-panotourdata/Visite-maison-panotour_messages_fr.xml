@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<krpano>
+
+<!-- ************************ -->
+<!--         Messages         -->
+<!-- ************************ -->
+
+  <data name="fr_project_title"><![CDATA[]]></data>
+
+
+
+  <data name="fr_pano10_title"><![CDATA[Cuisine-Salon]]></data>
+
+
+  <data name="fr_pano11_title"><![CDATA[Dressing]]></data>
+  <data name="fr_spotpoint244_tooltip"><![CDATA[Racken Metal spécialiste du design et de la découpe laser sur mesure]]></data>
+
+
+  <data name="fr_pano12_title"><![CDATA[Salle d'eau]]></data>
+
+
+  <data name="fr_pano13_title"><![CDATA[Vestibule]]></data>
+  <data name="fr_spotpolygon454_tooltip"><![CDATA[Hemnes]]></data>
+
+
+  <data name="fr_pano14_title"><![CDATA[Chambre]]></data>
+
+
+  <data name="fr_pano15_title"><![CDATA[Angle cuisine]]></data>
+  <data name="fr_spotpoint309_tooltip"><![CDATA[Bernd et Hila Becher Galerie]]></data>
+  <data name="fr_spotpoint448_tooltip"><![CDATA[Recette fondant au chocolat]]></data>
+  <data name="fr_spotpolygon451_tooltip"><![CDATA[Hotte Aspirante Klarstein]]></data>
+  <data name="fr_spotpolygon455_tooltip"><![CDATA[Hemnes]]></data>
+
+
+  <data name="fr_pano16_title"><![CDATA[Salon]]></data>
+  <data name="fr_spotpoint242_tooltip"><![CDATA[Bernd et Hila Becher Galerie]]></data>
+  <data name="fr_spotpolygon452_tooltip"><![CDATA[Hotte Aspirante Karlstein]]></data>
+
+
+  <data name="fr_pano17_title"><![CDATA[Entrée]]></data>
+  <data name="fr_spotpolygon456_tooltip"><![CDATA[Hemnes]]></data>
+
+
+
+
+	<data name="fr_project_floor_title"><![CDATA[]]></data>
+	<data name="fr_spotmap223_tooltip"><![CDATA[]]></data>
+	<data name="fr_spotmap224_tooltip"><![CDATA[]]></data>
+	<data name="fr_spotmap225_tooltip"><![CDATA[]]></data>
+	<data name="fr_spotmap226_tooltip"><![CDATA[]]></data>
+	<data name="fr_spotmap227_tooltip"><![CDATA[]]></data>
+	<data name="fr_spotmap228_tooltip"><![CDATA[]]></data>
+	<data name="fr_spotmap229_tooltip"><![CDATA[]]></data>
+	<data name="fr_spotmap230_tooltip"><![CDATA[]]></data>
+
+
+  <data name="fr_webvrbuttontooltip"><![CDATA[]]></data>
+  <data name="fr_logowebsiteurl"><![CDATA[]]></data>
+  <data name="fr_logotooltipText"><![CDATA[Ouvrir le site]]></data>
+  <data name="fr_controlBar_classicprevSceneTip"><![CDATA[Panorama précédent]]></data>
+  <data name="fr_controlBar_classicnextSceneTip"><![CDATA[Panorama suivant]]></data>
+  <data name="fr_controlBar_classiczoomInTip"><![CDATA[Zoom +]]></data>
+  <data name="fr_controlBar_classiczoomOutTip"><![CDATA[Zoom -]]></data>
+  <data name="fr_controlBar_classicmoveLeftTip"><![CDATA[Déplacement vers la gauche]]></data>
+  <data name="fr_controlBar_classicmoveRightTip"><![CDATA[Déplacement vers la droite]]></data>
+  <data name="fr_controlBar_classicmoveUpTip"><![CDATA[Déplacement vers le haut]]></data>
+  <data name="fr_controlBar_classicmoveDownTip"><![CDATA[Déplacement vers le bas]]></data>
+  <data name="fr_controlBar_classicopenFsTip"><![CDATA[Plein écran]]></data>
+  <data name="fr_controlBar_classiccloseFsTip"><![CDATA[Quitter le plein écran]]></data>
+  <data name="fr_controlBar_classicautorotateOnTip"><![CDATA[Démarrer l'Autorotation]]></data>
+  <data name="fr_controlBar_classicautorotateOffTip"><![CDATA[Arrêter l'Autorotation]]></data>
+  <data name="fr_controlBar_classicdisplayHelpTip"><![CDATA[Afficher l'écran d'aide]]></data>
+  <data name="fr_controlBar_classichideHelpTip"><![CDATA[Masquer l'écran d'aide]]></data>
+  <data name="fr_controlBar_classicdisplayControlsTip"><![CDATA[Afficher les contrôles]]></data>
+  <data name="fr_controlBar_classichideControlsTip"><![CDATA[Masquer les contrôles]]></data>
+  <data name="fr_controlBar_classicctrlmodeDragTip"><![CDATA[Changer le mode de navigation]]></data>
+  <data name="fr_controlBar_classicctrlmodeMoveTip"><![CDATA[Changer le mode de navigation]]></data>
+  <data name="fr_galleryplay_text"><![CDATA[Lecture / Pause]]></data>
+  <data name="fr_gallerynavprev_text"><![CDATA[Précédent]]></data>
+  <data name="fr_gallerynavnext_text"><![CDATA[Suivant]]></data>
+  <data name="fr_galleryfullscreen_text"><![CDATA[Plein écran]]></data>
+  <data name="fr_galleryclose_text"><![CDATA[Fermer]]></data>
+  <data name="fr_gallerypicture_title0"><![CDATA[Bernd et Hila Becher]]></data>
+  <data name="fr_gallerypicture_caption0"><![CDATA[]]></data>
+  <data name="fr_gallerypicture_title1"><![CDATA[Bernd et Hila Becher]]></data>
+  <data name="fr_gallerypicture_caption1"><![CDATA[]]></data>
+  <data name="fr_gallerypicture_title2"><![CDATA[Bernd et Hila Becher]]></data>
+  <data name="fr_gallerypicture_caption2"><![CDATA[]]></data>
+  <data name="fr_gallery1play_text"><![CDATA[Lecture / Pause]]></data>
+  <data name="fr_gallery1navprev_text"><![CDATA[Précédent]]></data>
+  <data name="fr_gallery1navnext_text"><![CDATA[Suivant]]></data>
+  <data name="fr_gallery1fullscreen_text"><![CDATA[Plein écran]]></data>
+  <data name="fr_gallery1close_text"><![CDATA[Fermer]]></data>
+  <data name="fr_gallery1picture_title0"><![CDATA[Sapy]]></data>
+  <data name="fr_gallery1picture_caption0"><![CDATA[]]></data>
+  <data name="fr_gallery1picture_title1"><![CDATA[Cubic]]></data>
+  <data name="fr_gallery1picture_caption1"><![CDATA[]]></data>
+  <data name="fr_gallery1picture_title2"><![CDATA[Labyrinth]]></data>
+  <data name="fr_gallery1picture_caption2"><![CDATA[]]></data>
+  <data name="fr_gallery1picture_title3"><![CDATA[Marguerite]]></data>
+  <data name="fr_gallery1picture_caption3"><![CDATA[]]></data>
+  <data name="fr_gallery1picture_title4"><![CDATA[Végétal]]></data>
+  <data name="fr_gallery1picture_caption4"><![CDATA[]]></data>
+  <data name="fr_gallery1picture_title5"><![CDATA[Flocons]]></data>
+  <data name="fr_gallery1picture_caption5"><![CDATA[]]></data>
+  <data name="fr_gallery1picture_title6"><![CDATA[Leaf]]></data>
+  <data name="fr_gallery1picture_caption6"><![CDATA[]]></data>
+  <data name="fr_gallery1picture_title7"><![CDATA[Mandala]]></data>
+  <data name="fr_gallery1picture_caption7"><![CDATA[]]></data>
+  <data name="fr_videoControlBarplay_tip"><![CDATA[Lecture]]></data>
+  <data name="fr_videoControlBarpause_tip"><![CDATA[Pause]]></data>
+  <data name="fr_videoControlBarsound_mute_tip"><![CDATA[Mettre en sourdine le son]]></data>
+  <data name="fr_videoControlBarsound_low_tip"><![CDATA[Niveau de son bas]]></data>
+  <data name="fr_videoControlBarsound_medium_tip"><![CDATA[Niveau de son intermédiaire]]></data>
+  <data name="fr_videoControlBarsound_high_tip"><![CDATA[Niveau de son haut]]></data>
+  <data name="fr_videoControlBarquality_tip"><![CDATA[Changement de qualité]]></data>
+  <data name="fr_videoControlBarquality_high_tip"><![CDATA[HD]]></data>
+  <data name="fr_videoControlBarquality_low_tip"><![CDATA[SD]]></data>
+  <data name="fr_videoControlBarprojection_tip"><![CDATA[Projection]]></data>
+  <data name="fr_videoControlBarfullscreen_open_tip"><![CDATA[Plein écran]]></data>
+  <data name="fr_videoControlBarfullscreen_close_tip"><![CDATA[Quitter le plein écran]]></data>
+  <data name="fr_videoControlBarsourcelabel"><![CDATA[Source]]></data>
+  <data name="fr_videoControlBarnormallabel"><![CDATA[Standard]]></data>
+
+
+  <data name="fr_vr_setup_hmd0"><![CDATA[CHOIX DU HMD]]></data>
+  <data name="fr_vr_setup_advanced"><![CDATA[PARAMETRES AVANCES]]></data>
+  <data name="fr_vr_setup_title"><![CDATA[PARAMETRES WEB VR]]></data>
+  <data name="fr_vr_setup_dvn1"><![CDATA[Appareil:]]></data>
+  <data name="fr_vr_setup_siz1"><![CDATA[Taille de l&#39;écran:]]></data>
+  <data name="fr_vr_setup_ipd1"><![CDATA[IPD:]]></data>
+  <data name="fr_vr_setup_hmd1"><![CDATA[HMD:]]></data>
+  <data name="fr_vr_setup_hmd3"><![CDATA[Personnaliser]]></data>
+  <data name="fr_vr_setup_cal"><![CDATA[Calibrer le gyroscope]]></data>
+  <data name="fr_vr_setup_sav"><![CDATA[ENREGISTRER]]></data>
+  <data name="fr_vr_setup_rst"><![CDATA[REINITIALISER]]></data>
+  <data name="fr_vr_setup_simple"><![CDATA[SIMPLE]]></data>
+  <data name="fr_vr_setup_cls"><![CDATA[FERMER]]></data>
+  <data name="fr_vr_setup_m31"><![CDATA[PARAMETRES DU HMD]]></data>
+  <data name="fr_vr_setup_fov1"><![CDATA[FOV:]]></data>
+  <data name="fr_vr_setup_dst1"><![CDATA[Distorsion:]]></data>
+  <data name="fr_vr_setup_d2tx"><![CDATA[Distorsion 2:]]></data>
+  <data name="fr_vr_setup_vig1"><![CDATA[Vignettage:]]></data>
+  <data name="fr_vr_setup_cac1"><![CDATA[Aberration chromatique:]]></data>
+  <data name="fr_vr_setup_olp1"><![CDATA[Recouvrement:]]></data>
+  <data name="fr_vr_setup_m35"><![CDATA[RETOUR]]></data>
+  <data name="fr_vr_setup_cb1"><![CDATA[GYROSCOPE]]></data>
+  <data name="fr_vr_setup_cb2"><![CDATA[Placer l&#39;appareil sur une surface plane et stable[br]puis tapez sur CALIBRER[br]pour corriger la dérive du gyroscope.]]></data>
+  <data name="fr_vr_setup_cb3"><![CDATA[CALIBRER]]></data>
+  <data name="fr_vr_setup_cb4"><![CDATA[REINITIALISER]]></data>
+  <data name="fr_vr_setup_cb5"><![CDATA[RETOUR]]></data>
+  <data name="fr_vr_setup_cb6"><![CDATA[Calibration en cours...]]></data>
+  <data name="fr_vr_setup_cb7"><![CDATA[Calibration réussie]]></data>
+  <data name="fr_vr_setup_cb8"><![CDATA[Echec de la calibration]]></data>
+  <data name="fr_vr_setup_unavailable"><![CDATA[Le mode VR[br]n&#39;est pas disponible sur cet appareil]]></data>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</krpano>
