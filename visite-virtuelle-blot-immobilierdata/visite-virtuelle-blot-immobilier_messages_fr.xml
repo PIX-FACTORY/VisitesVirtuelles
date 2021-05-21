@@ -1,0 +1,363 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<krpano>
+
+<!-- ************************ -->
+<!--         Messages         -->
+<!-- ************************ -->
+
+  <data name="fr_project_title"><![CDATA[Visite usine Blot]]></data>
+  <data name="fr_project_author_name"><![CDATA[Pix-Factory]]></data>
+  <data name="fr_project_author_url"><![CDATA[http://pix-factory.eu/]]></data>
+
+
+
+  <data name="fr_pano136_title"><![CDATA[b]]></data>
+
+
+  <data name="fr_pano135_title"><![CDATA[a]]></data>
+
+
+  <data name="fr_pano137_title"><![CDATA[c]]></data>
+
+
+  <data name="fr_pano138_title"><![CDATA[d]]></data>
+
+
+  <data name="fr_pano139_title"><![CDATA[e]]></data>
+
+
+  <data name="fr_pano140_title"><![CDATA[f]]></data>
+
+
+  <data name="fr_pano142_title"><![CDATA[h]]></data>
+
+
+  <data name="fr_pano141_title"><![CDATA[g]]></data>
+
+
+  <data name="fr_pano10_title"><![CDATA[A_01]]></data>
+
+
+  <data name="fr_pano11_title"><![CDATA[A_02]]></data>
+
+
+  <data name="fr_pano12_title"><![CDATA[A_03]]></data>
+
+
+  <data name="fr_pano13_title"><![CDATA[A_04]]></data>
+
+
+  <data name="fr_pano14_title"><![CDATA[A_05]]></data>
+
+
+  <data name="fr_pano15_title"><![CDATA[A_06]]></data>
+
+  <data name="fr_panogroup38_title"><![CDATA[Groupe 38]]></data>
+
+  <data name="fr_pano21_title"><![CDATA[A_12]]></data>
+  <data name="fr_pano599_title"><![CDATA[A_12_3d]]></data>
+
+
+  <data name="fr_pano17_title"><![CDATA[A_08]]></data>
+
+
+  <data name="fr_pano18_title"><![CDATA[A_09]]></data>
+
+
+  <data name="fr_pano19_title"><![CDATA[A_10]]></data>
+
+  <data name="fr_panogroup42_title"><![CDATA[Groupe 42]]></data>
+
+  <data name="fr_pano20_title"><![CDATA[A_11]]></data>
+  <data name="fr_pano589_title"><![CDATA[A_11_3d]]></data>
+
+  <data name="fr_panogroup44_title"><![CDATA[Groupe 44]]></data>
+
+  <data name="fr_pano22_title"><![CDATA[A_13]]></data>
+  <data name="fr_pano603_title"><![CDATA[A_13_3d]]></data>
+
+  <data name="fr_panogroup45_title"><![CDATA[Groupe 45]]></data>
+
+  <data name="fr_pano23_title"><![CDATA[A_14]]></data>
+  <data name="fr_pano607_title"><![CDATA[A_14_3d]]></data>
+
+  <data name="fr_panogroup46_title"><![CDATA[Groupe 46]]></data>
+
+  <data name="fr_pano24_title"><![CDATA[A_15]]></data>
+  <data name="fr_pano611_title"><![CDATA[A_15_3d]]></data>
+
+  <data name="fr_panogroup47_title"><![CDATA[Groupe 47]]></data>
+
+  <data name="fr_pano25_title"><![CDATA[A_16]]></data>
+  <data name="fr_pano615_title"><![CDATA[A_16_3d]]></data>
+
+  <data name="fr_panogroup48_title"><![CDATA[Groupe 48]]></data>
+
+  <data name="fr_pano26_title"><![CDATA[A_17]]></data>
+  <data name="fr_pano619_title"><![CDATA[A_17_3d]]></data>
+
+  <data name="fr_panogroup49_title"><![CDATA[Groupe 49]]></data>
+
+  <data name="fr_pano27_title"><![CDATA[A_18]]></data>
+  <data name="fr_pano623_title"><![CDATA[A_18_3d]]></data>
+
+  <data name="fr_panogroup50_title"><![CDATA[Groupe 50]]></data>
+
+  <data name="fr_pano28_title"><![CDATA[A_19]]></data>
+  <data name="fr_pano627_title"><![CDATA[A_19_3d]]></data>
+
+  <data name="fr_panogroup51_title"><![CDATA[Groupe 51]]></data>
+
+  <data name="fr_pano29_title"><![CDATA[A_20]]></data>
+  <data name="fr_pano631_title"><![CDATA[A_20_3d]]></data>
+
+  <data name="fr_panogroup52_title"><![CDATA[Groupe 52]]></data>
+
+  <data name="fr_pano30_title"><![CDATA[A_21]]></data>
+  <data name="fr_pano635_title"><![CDATA[A_21_3d]]></data>
+
+  <data name="fr_panogroup53_title"><![CDATA[Groupe 53]]></data>
+
+  <data name="fr_pano31_title"><![CDATA[A_22]]></data>
+  <data name="fr_pano639_title"><![CDATA[A_22_3d]]></data>
+
+
+  <data name="fr_pano16_title"><![CDATA[A_07]]></data>
+
+
+  <data name="fr_pano126_title"><![CDATA[B_01]]></data>
+  <data name="fr_spotpoint1080_tooltip"><![CDATA[Pont roulant 10 tonnes]]></data>
+  <data name="fr_spotpoint1081_tooltip"><![CDATA[Pont roulant 10 tonnes]]></data>
+
+
+  <data name="fr_pano127_title"><![CDATA[B_02]]></data>
+  <data name="fr_spotpoint946_tooltip"><![CDATA[Pont roulant 10 tonnes]]></data>
+  <data name="fr_spotpoint947_tooltip"><![CDATA[Pont roulant 10 tonnes]]></data>
+
+
+  <data name="fr_pano128_title"><![CDATA[B_03]]></data>
+  <data name="fr_spotpoint1083_tooltip"><![CDATA[Pont roulant 10 tonnes]]></data>
+
+
+	<data name="fr_spotmap1871_tooltip"><![CDATA[]]></data>
+	<data name="fr_spotmap1872_tooltip"><![CDATA[]]></data>
+	<data name="fr_spotmap1873_tooltip"><![CDATA[]]></data>
+	<data name="fr_spotmap1874_tooltip"><![CDATA[]]></data>
+	<data name="fr_spotmap1875_tooltip"><![CDATA[]]></data>
+	<data name="fr_spotmap1876_tooltip"><![CDATA[]]></data>
+	<data name="fr_spotmap1877_tooltip"><![CDATA[]]></data>
+	<data name="fr_spotmap1878_tooltip"><![CDATA[]]></data>
+	<data name="fr_spotmap1879_tooltip"><![CDATA[]]></data>
+	<data name="fr_spotmap1880_tooltip"><![CDATA[]]></data>
+	<data name="fr_spotmap1881_tooltip"><![CDATA[]]></data>
+	<data name="fr_spotmap1882_tooltip"><![CDATA[]]></data>
+	<data name="fr_spotmap1883_tooltip"><![CDATA[]]></data>
+	<data name="fr_spotmap1884_tooltip"><![CDATA[]]></data>
+	<data name="fr_spotmap1885_tooltip"><![CDATA[]]></data>
+	<data name="fr_spotmap1886_tooltip"><![CDATA[]]></data>
+	<data name="fr_spotmap1887_tooltip"><![CDATA[]]></data>
+	<data name="fr_spotmap1888_tooltip"><![CDATA[]]></data>
+	<data name="fr_spotmap1889_tooltip"><![CDATA[]]></data>
+	<data name="fr_spotmap1890_tooltip"><![CDATA[]]></data>
+	<data name="fr_spotmap1891_tooltip"><![CDATA[]]></data>
+	<data name="fr_spotmap1892_tooltip"><![CDATA[]]></data>
+	<data name="fr_spotmap1893_tooltip"><![CDATA[]]></data>
+	<data name="fr_spotmap1894_tooltip"><![CDATA[]]></data>
+	<data name="fr_spotmap1895_tooltip"><![CDATA[]]></data>
+	<data name="fr_spotmap1896_tooltip"><![CDATA[]]></data>
+	<data name="fr_spotmap1897_tooltip"><![CDATA[]]></data>
+	<data name="fr_spotmap1898_tooltip"><![CDATA[]]></data>
+	<data name="fr_spotmap1899_tooltip"><![CDATA[]]></data>
+	<data name="fr_spotmap1900_tooltip"><![CDATA[]]></data>
+	<data name="fr_spotmap1901_tooltip"><![CDATA[]]></data>
+	<data name="fr_spotmap1902_tooltip"><![CDATA[]]></data>
+	<data name="fr_spotmap1903_tooltip"><![CDATA[]]></data>
+
+
+	<data name="fr_project_floor_title"><![CDATA[Visite usine Blot]]></data>
+	<data name="fr_spotmap492_tooltip"><![CDATA[Exterieur Ouest]]></data>
+	<data name="fr_spotmap493_tooltip"><![CDATA[Exterieur Sud-Ouest]]></data>
+	<data name="fr_spotmap494_tooltip"><![CDATA[Cours 01]]></data>
+	<data name="fr_spotmap495_tooltip"><![CDATA[Cours 02]]></data>
+	<data name="fr_spotmap496_tooltip"><![CDATA[Cours 03]]></data>
+	<data name="fr_spotmap497_tooltip"><![CDATA[Cours 04]]></data>
+	<data name="fr_spotmap498_tooltip"><![CDATA[Cours 05]]></data>
+	<data name="fr_spotmap499_tooltip"><![CDATA[Cours 06]]></data>
+	<data name="fr_spotmap500_tooltip"><![CDATA[Entrepôt secondaire 01]]></data>
+	<data name="fr_spotmap501_tooltip"><![CDATA[Entrepôt secondaire 02]]></data>
+	<data name="fr_spotmap502_tooltip"><![CDATA[Entrepôt secondaire 03]]></data>
+	<data name="fr_spotmap503_tooltip"><![CDATA[Entrée bureaux]]></data>
+	<data name="fr_spotmap504_tooltip"><![CDATA[Accueil 02]]></data>
+	<data name="fr_spotmap505_tooltip"><![CDATA[Accueil 01]]></data>
+	<data name="fr_spotmap506_tooltip"><![CDATA[Couloir 01]]></data>
+	<data name="fr_spotmap507_tooltip"><![CDATA[Bureau de la direction]]></data>
+	<data name="fr_spotmap508_tooltip"><![CDATA[Couloir 02]]></data>
+	<data name="fr_spotmap509_tooltip"><![CDATA[Bureau 01]]></data>
+	<data name="fr_spotmap510_tooltip"><![CDATA[Couloir 03]]></data>
+	<data name="fr_spotmap511_tooltip"><![CDATA[Bureau 02]]></data>
+	<data name="fr_spotmap565_tooltip"><![CDATA[Bureau 03]]></data>
+	<data name="fr_spotmap566_tooltip"><![CDATA[Entrepôt principal]]></data>
+	<data name="fr_spotmap567_tooltip"><![CDATA[Entrepôt principal 02]]></data>
+	<data name="fr_spotmap568_tooltip"><![CDATA[Entrepôt principal 03]]></data>
+	<data name="fr_spotmap569_tooltip"><![CDATA[Entrepôt principal 04]]></data>
+	<data name="fr_spotmap570_tooltip"><![CDATA[Entrepôt principal 05]]></data>
+	<data name="fr_spotmap571_tooltip"><![CDATA[Entrepôt principal 06]]></data>
+	<data name="fr_spotmap572_tooltip"><![CDATA[Entrepôt principal 07]]></data>
+	<data name="fr_spotmap573_tooltip"><![CDATA[Entrepôt principal 08]]></data>
+	<data name="fr_spotmap574_tooltip"><![CDATA[Entrepôt principal 09]]></data>
+	<data name="fr_spotmap575_tooltip"><![CDATA[Entrepôt principal 10]]></data>
+	<data name="fr_spotmap576_tooltip"><![CDATA[Mezzanine 02]]></data>
+	<data name="fr_spotmap577_tooltip"><![CDATA[Mezzanine 01]]></data>
+
+
+  <data name="fr_logowebsiteurl"><![CDATA[]]></data>
+  <data name="fr_logotooltipText"><![CDATA[Ouvrir le site]]></data>
+  <data name="fr_logo1websiteurl"><![CDATA[]]></data>
+  <data name="fr_logo1tooltipText"><![CDATA[Ouvrir le site]]></data>
+
+
+  <data name="fr_vr_setup_hmd0"><![CDATA[CHOIX DU HMD]]></data>
+  <data name="fr_vr_setup_advanced"><![CDATA[PARAMETRES AVANCES]]></data>
+  <data name="fr_vr_setup_title"><![CDATA[PARAMETRES WEB VR]]></data>
+  <data name="fr_vr_setup_dvn1"><![CDATA[Appareil:]]></data>
+  <data name="fr_vr_setup_siz1"><![CDATA[Taille de l&#39;écran:]]></data>
+  <data name="fr_vr_setup_ipd1"><![CDATA[IPD:]]></data>
+  <data name="fr_vr_setup_hmd1"><![CDATA[HMD:]]></data>
+  <data name="fr_vr_setup_hmd3"><![CDATA[Personnaliser]]></data>
+  <data name="fr_vr_setup_cal"><![CDATA[Calibrer le gyroscope]]></data>
+  <data name="fr_vr_setup_sav"><![CDATA[ENREGISTRER]]></data>
+  <data name="fr_vr_setup_rst"><![CDATA[REINITIALISER]]></data>
+  <data name="fr_vr_setup_simple"><![CDATA[SIMPLE]]></data>
+  <data name="fr_vr_setup_cls"><![CDATA[FERMER]]></data>
+  <data name="fr_vr_setup_m31"><![CDATA[PARAMETRES DU HMD]]></data>
+  <data name="fr_vr_setup_fov1"><![CDATA[FOV:]]></data>
+  <data name="fr_vr_setup_dst1"><![CDATA[Distorsion:]]></data>
+  <data name="fr_vr_setup_d2tx"><![CDATA[Distorsion 2:]]></data>
+  <data name="fr_vr_setup_vig1"><![CDATA[Vignettage:]]></data>
+  <data name="fr_vr_setup_cac1"><![CDATA[Aberration chromatique:]]></data>
+  <data name="fr_vr_setup_olp1"><![CDATA[Recouvrement:]]></data>
+  <data name="fr_vr_setup_m35"><![CDATA[RETOUR]]></data>
+  <data name="fr_vr_setup_cb1"><![CDATA[GYROSCOPE]]></data>
+  <data name="fr_vr_setup_cb2"><![CDATA[Placer l&#39;appareil sur une surface plane et stable[br]puis tapez sur CALIBRER[br]pour corriger la dérive du gyroscope.]]></data>
+  <data name="fr_vr_setup_cb3"><![CDATA[CALIBRER]]></data>
+  <data name="fr_vr_setup_cb4"><![CDATA[REINITIALISER]]></data>
+  <data name="fr_vr_setup_cb5"><![CDATA[RETOUR]]></data>
+  <data name="fr_vr_setup_cb6"><![CDATA[Calibration en cours...]]></data>
+  <data name="fr_vr_setup_cb7"><![CDATA[Calibration réussie]]></data>
+  <data name="fr_vr_setup_cb8"><![CDATA[Echec de la calibration]]></data>
+  <data name="fr_vr_setup_unavailable"><![CDATA[Le mode VR[br]n&#39;est pas disponible sur cet appareil]]></data>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</krpano>
