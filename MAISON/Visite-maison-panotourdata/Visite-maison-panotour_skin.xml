@@ -1055,7 +1055,7 @@ tween(alpha, 1);
 					width="300" 
 					height="300" 
 					groupName="" 
-					url="floorplan/_19-04-26_-maison_vr-plan-300.png" 
+					url="floorplan/19-04-26-maison_vr-plan-300.png" 
 					title="project_floor_title"
 					heading="0">
 							<spot name="spotmap223" posX="0.497381985" posY="0.186736003" heading="0" desc="spotmap223_tooltip" descType="tooltip" groupName="" isScene="true" planar="false" scene="pano15" jsClick="spotmap223ActionSpotFloorPlan">
